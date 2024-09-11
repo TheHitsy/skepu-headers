@@ -178,6 +178,29 @@ namespace skepu
 		
 		friend MapReduceImpl<InArity, GivenArity, RetType, RedType, Args...> MapReduceWrapper<GivenArity, RetType, RedType, Args...>(MapFunc, RedFunc);
 		
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	}; // end class MapReduce
 	
 } // end namespace skepu
